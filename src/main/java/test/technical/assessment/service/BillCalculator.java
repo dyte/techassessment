@@ -5,7 +5,6 @@ import test.technical.assessment.domain.order.base.BaseOrder;
 /***
  * @author C. Engin Bilici
  * @param <T extends BaseOrder>
- * @deprecated
  */
 public class BillCalculator<T extends BaseOrder> {
 
